@@ -32,7 +32,7 @@ Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương ph�
 
 Khương Duy
 ![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
-Mỗi lần "Whirlwind" dược giải phóng,nhận dược 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10]lần. ("Whirlwind" : Kỹ năng chủ động của Longsword)
+Mỗi lần "Whirlwind" được giải phóng,nhận dược 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10] lần. ("Whirlwind" : Kỹ năng chủ động của Longsword)
 
 Lữ Mông
 ![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
