@@ -56,4 +56,7 @@ Khi giải phóng Shield,cũng cấp Safe Shelte cho 10 đồng minh,khiến h�
 
 Nhạc Tiến
 ![Screenshot_20250509-165020](https://github.com/user-attachments/assets/b151a516-aa06-4eca-a950-682602dfc123)
+Khi bắt đầu trận chiến,thu hút các công trình của đối phương tấn công bản thân,với 80% cơ hội né tránh các đòn tấn công của công trình.Gây thêm sát thương bằng ([20-40]%* Sát thương đã né tránh) khi tấn công các mục tiêu không phải công trình  vào lần tiếp theo
+
+
 
