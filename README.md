@@ -64,7 +64,7 @@ Mỗi lần chịu sát thương,Hp tối đa+8,có thể cộng dồn tối đa
 
 Chu Thái
 ![Screenshot_20250509-171335](https://github.com/user-attachments/assets/c2438430-7a6d-41b5-9812-c5891e31440e)
-
+Chịu [10-30]% sát thương cho đồng minh trong phạm vi 5 ô và có 100% cơ hội phục hồi 20% Hp tối đa khi chết.Cơ hội phục hồi sẽ giảm 10% sau mỗi lần kích hoạt hiệu ứng,tối đa 50%.
 
 Trương Phi
 ![Screenshot_20250509-171340](https://github.com/user-attachments/assets/034bc350-33d7-4b5b-8944-7f00ba0a74b6)
