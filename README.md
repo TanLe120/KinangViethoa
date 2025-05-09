@@ -20,5 +20,13 @@ Khi tước vũ khí của mục tiêu,chuyển [50-100%]% sức mạnh tấn c�
 
 Chu Du
 ![Screenshot_20250509-111922](https://github.com/user-attachments/assets/70b391b5-2032-45ec-bc29-d836f77245fb)
-Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 vòng.Khi bất kỳ mục tiêu nào chịu sât thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg
+Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 vòng.Khi bất kỳ mục tiêu nào chịu sát thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg
+
+Lý Tư Dạ
+![Screenshot_20250509-115042](https://github.com/user-attachments/assets/51e8136c-2706-4c73-afa0-4ff6a2bb8c3f)
+Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Suffer : kỹ năng bị động của modao" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần
+
+Vu Cấm
+![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
+Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miên nhiễm với debuf.Hiệu ứng này kết thúc khi Vu Cấm bị giết
 
