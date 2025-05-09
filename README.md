@@ -28,7 +28,7 @@ Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Su
 
 Vu Cấm
 ![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
-Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với debuff.Hiệu ứng này kết thúc khi Vu Cấm bị giết
+Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với hiệu ứng có hại.Hiệu ứng này kết thúc khi Vu Cấm bị giết
 
 Khương Duy
 ![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
