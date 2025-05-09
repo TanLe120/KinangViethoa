@@ -60,7 +60,7 @@ Khi bắt đầu trận chiến,thu hút các công trình của đối phương
 
 Tào Nhân
 ![Screenshot_20250509-171332](https://github.com/user-attachments/assets/c1d71e66-872e-442b-b344-74f8f1c5204f)
-
+Mỗi lần chịu sát thương,Hp tối đa+8,có thể cộng dồn tối đa[20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa,phục hồi Hp bằng 1% Hp tối đa mỗi vòng
 
 Chu Thái
 ![Screenshot_20250509-171335](https://github.com/user-attachments/assets/c2438430-7a6d-41b5-9812-c5891e31440e)
