@@ -14,3 +14,11 @@ Tần Lương Ngọc
 ![Screenshot_20250509-093743](https://github.com/user-attachments/assets/61e7ae83-364a-4e1d-8755-565f4129f137)
 Khi ném,ngọn giáo sẽ để lại ở vị trí mục tiêu.Ở vòng tiếp theo,ngọn giáo sẽ được thu lại thay vì tấn công.Nếu không có kẻ địch ở vị trí mục tiêu khi thu giáo,nộ sẽ được tăng thêm 75% ,nếu còn kẻ địch,gây ([100-150]%*Atk) sát thương cho mục tiêu
 
+Bạch Khởi
+![Screenshot_20250509-111821](https://github.com/user-attachments/assets/d6212b0d-0da5-472d-b6db-ce7c3663f185)
+Khi tước vũ khí của mục tiêu,chuyển [50-100%]% sức mạnh tấn công bị giảm của mục tiêu cho tối đa 12 dồng minh trong phạm vi 4 ô xung quanh mục tiêu trong 3 vòng,ưu tiên "tước vũ khí:Disarm" của mục tiêu có tấn công cao nhất
+
+Chu Du
+![Screenshot_20250509-111922](https://github.com/user-attachments/assets/70b391b5-2032-45ec-bc29-d836f77245fb)
+Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 vòng.Khi bất kỳ mục tiêu nào chịu sât thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg
+
