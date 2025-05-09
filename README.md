@@ -106,4 +106,26 @@ Lưu Sủng
 ![Screenshot_20250509-220918](https://github.com/user-attachments/assets/770c59bb-8a10-4ec1-8f1e-a447cedc46f2)
 Khi triển khai "Rapid Fire",cứ mỗi mũi tên bắn ra sẽ có [20-50]% cơ hội bắn thêm 1 mũi tên nữa,có thể bắn tối đa 10 mũi tên.
 
+Vương Dị
+![Screenshot_20250509-230143](https://github.com/user-attachments/assets/2f94f009-062a-4a8d-81d2-59d9e4b46580)
+Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công dồng minh của chúng trong 2 vòng.
 
+Lý Nho
+![Screenshot_20250509-230147](https://github.com/user-attachments/assets/c2099bd9-b7f0-4f84-906f-5dad31f31512)
+"Poison Arrow" cũng sẽ gây "Poison Wine" trong 3 vòng.Khi mục tiêu chết hoặc vào cuối lượt,gây sát thương chuẩn bằng [10-20]% tổng sát thương mà mục tiêu phải chịu trong thời gian "Poison Wine" lên tối đa 8 kể địch trong phạm vi 2 ô.
+
+Dưỡng Do Cơ
+![Screenshot_20250509-230150](https://github.com/user-attachments/assets/e8fa8718-41f3-4d9a-9cb6-1fa452429ef1)
+Ngừng giải phóng "Inspire" và triệu hồi 1 con thú.Nếu con thú đã tồn tại,cho nó ăn thức ăn để phục hồi [10-30]% lượng máu tối đa của nó.(Hiệu ứng trang bị độc quyền : Mỗi lần bạn cho nó ăn,nó sẽ tăng 4% lượng máu tối đa và 6% tấn công,có thể cộng dồn tối đa 25 lần).("Inspire" : Kỹ năng chủ động của Hunter).
+
+Tôn Quyền
+![Screenshot_20250509-230152](https://github.com/user-attachments/assets/c3c5fb2f-e4fb-412b-a52c-7cd2b96b8da5)
+Khi truyền cảm hứng,tăng thêm [5-15] tấn công cho đồng minh có tấn công cao nhất (2+ cấp độ của bản thân).(Trang bị dộc quyền : Cũng tăng 50% nộ khí cho những đồng minh có tấn công cao nhất này,không bao gồm bản thân).
+
+Tào Xung
+![Screenshot_20250509-230155](https://github.com/user-attachments/assets/4566198d-6b0c-4748-8bcb-705e362fe03c)
+Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn công thêm [10-30]% và ưu tiên tấn công mục tiêu xa nhất.
+
+Tôn Thượng Hương
+![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
+Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị choáng +1.
