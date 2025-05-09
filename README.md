@@ -108,7 +108,7 @@ Khi triển khai "Rapid Fire",cứ mỗi mũi tên bắn ra sẽ có [20-50]% c�
 
 Vương Dị
 ![Screenshot_20250509-230143](https://github.com/user-attachments/assets/2f94f009-062a-4a8d-81d2-59d9e4b46580)
-Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công dồng minh của chúng trong 2 vòng.
+Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công đồng minh của chúng trong 2 vòng.
 
 Lý Nho
 ![Screenshot_20250509-230147](https://github.com/user-attachments/assets/c2099bd9-b7f0-4f84-906f-5dad31f31512)
@@ -128,4 +128,4 @@ Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn côn
 
 Tôn Thượng Hương
 ![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
-Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị choáng +1.
+Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1.
