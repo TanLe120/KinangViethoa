@@ -1,131 +1,131 @@
-Trần Đáo
+**Trần Đáo**
 ![Screenshot_20250508-165702](https://github.com/user-attachments/assets/7eaa4306-c87d-41bb-96a1-47ac0ac69999)
 Đâm gây thêm sát thương bằng(10% tất cả Atk của Shield Soldier đồng minh).Trong khi đó,chuyển [40-80]% sát thương phải chịu sang Shield Soldier có tỉ lệ HP cao nhất.
 
-Triệu Vân
+**Triệu Vân**
 ![Screenshot_20250509-094239](https://github.com/user-attachments/assets/aaac69b3-ab33-44b0-8edb-56045e2ec310)
 Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% né tránh khi nhận sát thương,có thể cộng dồn không giới hạn mỗi vòng(sau khi hành động xong sẽ reset lại).Tăng sát thương của đòn tấn công tiếp theo thêm [10-20]% sau mỗi lần né tránh thành công(sau khi hành động xong sẽ reset lại).
 
-Trương Cáp
+**Trương Cáp**
 ![Screenshot_20250509-094242](https://github.com/user-attachments/assets/feac99f8-21e2-42f3-9d96-a4104dcc301e)
 Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 hiệp,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier"hoặc vũ khí(catapult,trebuchet).
 
-Tần Lương Ngọc
+**Tần Lương Ngọc**
 ![Screenshot_20250509-093743](https://github.com/user-attachments/assets/61e7ae83-364a-4e1d-8755-565f4129f137)
 Khi ném,ngọn giáo sẽ để lại ở vị trí mục tiêu.Ở vòng tiếp theo,ngọn giáo sẽ được thu lại thay vì tấn công.Nếu không có kẻ địch ở vị trí mục tiêu khi thu giáo,nộ sẽ được tăng thêm 75% ,nếu còn kẻ địch,gây ([100-150]%*Atk) sát thương cho mục tiêu.
 
-Bạch Khởi
+**Bạch Khởi**
 ![Screenshot_20250509-111821](https://github.com/user-attachments/assets/d6212b0d-0da5-472d-b6db-ce7c3663f185)
 Khi tước vũ khí của mục tiêu,chuyển [50-100%]% sức mạnh tấn công bị giảm của mục tiêu cho tối đa 12 dồng minh trong phạm vi 4 ô xung quanh mục tiêu trong 3 vòng,ưu tiên "tước vũ khí:Disarm" của mục tiêu có tấn công cao nhất.
 
-Chu Du
+**Chu Du**
 ![Screenshot_20250509-111922](https://github.com/user-attachments/assets/70b391b5-2032-45ec-bc29-d836f77245fb)
 Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 vòng.Khi bất kỳ mục tiêu nào chịu sát thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg.
 
-Lý Tư Dạ
+**Lý Tư Dạ**
 ![Screenshot_20250509-115042](https://github.com/user-attachments/assets/51e8136c-2706-4c73-afa0-4ff6a2bb8c3f)
 Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Suffer" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần. ("Calvary Suffer" : Kỹ năng bị động của Modao).
 
-Vu Cấm
+**Vu Cấm**
 ![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
 Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với hiệu ứng có hại.Hiệu ứng này kết thúc khi Vu Cấm bị giết.
 
-Khương Duy
+**Khương Duy**
 ![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
 Mỗi lần "Whirlwind" được giải phóng,nhận được 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10] lần. ("Whirlwind" : Kỹ năng chủ động của Longsword).
 
-Lữ Mông
+**Lữ Mông**
 ![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
 Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword).
 
-Văn Ương
+**Văn Ương**
 ![Screenshot_20250509-152711](https://github.com/user-attachments/assets/d9651eee-ce97-4b9a-8045-4364d56aa796)
 "Unbridled Dance" chỉ gây 1 lượng sát thương nhất định.Sau mỗi "Unbridled Dance",có cơ hội lướt thêm lần nữa.Cơ hội lướt lần đầu là 100% và cơ hội tiếp theo là[40-70]%.Có thể lướt tới 7 lần.("Unbridled Dance" : Kỹ năng chủ động của Twin).
 
-Điển Vi
+**Điển Vi**
 ![Screenshot_20250509-152714](https://github.com/user-attachments/assets/74dd75a4-3809-451c-b66f-41736a218dfb)
 Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đa [20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa ,"Unbridled Dance" sẽ được + thêm 1. ("Unbridled Dance" : Kỹ năng chủ động của Twin).
 
-Tấn Quỳnh
+**Tấn Quỳnh**
 ![Screenshot_20250509-152718](https://github.com/user-attachments/assets/90ef712a-6573-4078-89b5-7694f9969145)
 "Unbridled Dance" lướt tới tướng dịch hoặc mục tiêu có tấn công cao nhất gây ra sát thương bằng (200%*Atk) và tỉ lệ đỡ đòn +20%.Trong khi đó, 2 đòn đánh cơ bản tiếp theo gây thêm sát thương bằng ([15-30%]*Hp tối đa của mục tiêu).
 
-Từ Thịnh
+**Từ Thịnh**
 ![Screenshot_20250509-165017](https://github.com/user-attachments/assets/e0e2435e-8cf6-4d79-a9af-4f187186f2e5)
 Khi giải phóng Shield,cũng cấp Safe Shelte cho 10 đồng minh,khiến họ miễn nhiễm với hiệu ứng có hại và nhận [10-30]% hút máu trong 5 vòng.Trong khi đó,đồng minh trong phạm vi 5 ô bị hiệu ứng có hại,nộ của bản thân sẽ được tăng thêm 1.
 
-Nhạc Tiến
+**Nhạc Tiến**
 ![Screenshot_20250509-165020](https://github.com/user-attachments/assets/b151a516-aa06-4eca-a950-682602dfc123)
 Khi bắt đầu trận chiến,thu hút các công trình của đối phương tấn công bản thân,với 80% cơ hội né tránh các đòn tấn công của công trình.Gây thêm sát thương bằng ([20-40]%* Sát thương đã né tránh) khi tấn công các mục tiêu không phải công trình  vào lần tiếp theo.
 
-Tào Nhân
+**Tào Nhân**
 ![Screenshot_20250509-171332](https://github.com/user-attachments/assets/c1d71e66-872e-442b-b344-74f8f1c5204f)
 Mỗi lần chịu sát thương,Hp tối đa+8,có thể cộng dồn tối đa[20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa,phục hồi Hp bằng 1% Hp tối đa mỗi vòng.
 
-Chu Thái
+**Chu Thái**
 ![Screenshot_20250509-171335](https://github.com/user-attachments/assets/c2438430-7a6d-41b5-9812-c5891e31440e)
 Chịu [10-30]% sát thương cho đồng minh trong phạm vi 5 ô và có 100% cơ hội phục hồi 20% Hp tối đa khi chết.Cơ hội phục hồi sẽ giảm 10% sau mỗi lần kích hoạt hiệu ứng,tối đa 50%.
 
-Trương Phi
+**Trương Phi**
 ![Screenshot_20250509-171340](https://github.com/user-attachments/assets/034bc350-33d7-4b5b-8944-7f00ba0a74b6)
 Gầm lên sau khi lao tới,gây thêm [20-50]% sát thương lên tối đa 8 kẻ địch trong phạm vi 2 ô và khiến chúng sợ hãi,không thể di chuyển trong 3 vòng.
 
-Cao Thuận
+**Cao Thuận**
 ![Screenshot_20250509-171342](https://github.com/user-attachments/assets/bbf89d02-713f-4263-a9d7-5a6424bd9e14)
 Khi bắt đầu trận chiến,tăng 10%Hp và [10-30]% Atk cho tất cả đồng minh,không gồm vũ khí(trebuchet,catapult) trong đội quân của Cao Thuận.Trong khi đó,cứ mỗi 1% Hp mất đi,tăng 1% sát thương gây ra.Hiệu ứng này kết thúc khi Cao Thuận bị giết.
 
-Hoàng Cái 
+**Hoàng Cái** 
 ![Screenshot_20250509-171345](https://github.com/user-attachments/assets/3067828f-6428-4e34-b14d-4f39043a1349)
 Khi bắt đầu vòng đầu tiên,trừ 20% Hp tối đa của bản thân,cấp cho 30 đồng minh gần nhất và bản thân một lá chắn(giáp ảo) bằng [20-50]% và tăng 10% tấn công của họ đến khi kết thúc trận chiến.
 
-Liêm Pha
+**Liêm Pha**
 ![Screenshot_20250509-171348](https://github.com/user-attachments/assets/7a3c3b3c-6c2d-4f46-8ed2-07c1521103f8)
 Nếu Hp trên 50%,tăng 25% sát thương gây ra cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Nếu Hp dưới 50%, giảm 25% sát thương phải chịu cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Ngoài ra tăng hiệu ứng của bản thân thêm [50-100]%.
 
-Tào Tháo
+**Tào Tháo**
 ![Screenshot_20250509-212843](https://github.com/user-attachments/assets/f575434e-a9e3-4236-ac3d-41d08caa2a39)
 Mỗi đòn tấn công sẽ cấp 1 lớp tinh thần cho tối đa 20 đồng minh trong phạm vi 3 ô.Mỗi lớp tinh thần tăng 10 máu tối đa và 1 tấn công.Có thể cộng dồn tối đa [10-20] lớp.Tất cả các lớp Tinh thần sẽ bị xóa sau khi Tào Tháo chết.
 
-Đặng Ngải
+**Đặng Ngải**
 ![Screenshot_20250509-220902](https://github.com/user-attachments/assets/47ded97b-d301-4299-aef4-226a7caca221)
 Khi bắt đầu vòng đầu tiên,gửi Lệnh dồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 vòng,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi vòng cho đến khi kết thúc trận chiến.
 
-Hoàng Trung
+**Hoàng Trung**
 ![Screenshot_20250509-220905](https://github.com/user-attachments/assets/02338b25-185c-4eab-9c33-ae1d129a927f)
 Khi Hp mục tiêu dưới 60%,có [15-30]% cơ hội kết liễu mục tiêu ngay lập tức.Cơ hội sẽ tăng gấp đôi khi Hp của mục tiêu dưới 30% và ưu tiên tấn công mục tiêu có Hp thấp nhất.
 
-Hàn Đương
+**Hàn Đương**
 ![Screenshot_20250509-220908](https://github.com/user-attachments/assets/6d497356-122d-4bce-8c37-f42a9c06e9e7)
 Các đòn tấn công cơ bản gây thêm sát thương chuẩn bằng (nộ hiện tại*[30-50%]%*Atk) và giữ lại 1 nộ sau khi sử dụng "Scatter" :Kỹ năng chủ động của Longbow.
 
-Lưu Bị
+**Lưu Bị**
 ![Screenshot_20250509-220913](https://github.com/user-attachments/assets/5d2f5207-a0b2-4857-ad24-456beee628e2)
 "Rapid Fire" không gây sát thương cho kẻ địch nữa và thay vào đó,hồi [10-20]% Hp tối đa của đơn vị đồng minh có tỉ lệ Hp thấp nhất.
 
-Lưu Sủng
+**Lưu Sủng**
 ![Screenshot_20250509-220918](https://github.com/user-attachments/assets/770c59bb-8a10-4ec1-8f1e-a447cedc46f2)
 Khi triển khai "Rapid Fire",cứ mỗi mũi tên bắn ra sẽ có [20-50]% cơ hội bắn thêm 1 mũi tên nữa,có thể bắn tối đa 10 mũi tên.
 
-Vương Dị
+**Vương Dị**
 ![Screenshot_20250509-230143](https://github.com/user-attachments/assets/2f94f009-062a-4a8d-81d2-59d9e4b46580)
 Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công đồng minh của chúng trong 2 vòng.
 
-Lý Nho
+**Lý Nho**
 ![Screenshot_20250509-230147](https://github.com/user-attachments/assets/c2099bd9-b7f0-4f84-906f-5dad31f31512)
 "Poison Arrow" cũng sẽ gây "Poison Wine" trong 3 vòng.Khi mục tiêu chết hoặc vào cuối lượt,gây sát thương chuẩn bằng [10-20]% tổng sát thương mà mục tiêu phải chịu trong thời gian "Poison Wine" lên tối đa 8 kể địch trong phạm vi 2 ô.
 
-Dưỡng Do Cơ
+**Dưỡng Do Cơ**
 ![Screenshot_20250509-230150](https://github.com/user-attachments/assets/e8fa8718-41f3-4d9a-9cb6-1fa452429ef1)
 Ngừng giải phóng "Inspire" và triệu hồi 1 con thú.Nếu con thú đã tồn tại,cho nó ăn thức ăn để phục hồi [10-30]% lượng máu tối đa của nó.(Hiệu ứng trang bị độc quyền : Mỗi lần bạn cho nó ăn,nó sẽ tăng 4% lượng máu tối đa và 6% tấn công,có thể cộng dồn tối đa 25 lần).("Inspire" : Kỹ năng chủ động của Hunter).
 
-Tôn Quyền
+**Tôn Quyền**
 ![Screenshot_20250509-230152](https://github.com/user-attachments/assets/c3c5fb2f-e4fb-412b-a52c-7cd2b96b8da5)
 Khi truyền cảm hứng,tăng thêm [5-15] tấn công cho đồng minh có tấn công cao nhất (2+ cấp độ của bản thân).(Trang bị dộc quyền : Cũng tăng 50% nộ khí cho những đồng minh có tấn công cao nhất này,không bao gồm bản thân).
 
-Tào Xung
+**Tào Hưu**
 ![Screenshot_20250509-230155](https://github.com/user-attachments/assets/4566198d-6b0c-4748-8bcb-705e362fe03c)
 Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn công thêm [10-30]% và ưu tiên tấn công mục tiêu xa nhất.
 
-Tôn Thượng Hương
+**Tôn Thượng Hương**
 ![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
 Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1.
