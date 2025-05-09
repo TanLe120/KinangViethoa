@@ -92,9 +92,9 @@ Khi bắt đầu vòng đầu tiên,gửi Lệnh dồn trú đến 30 dồng min
 
 Hoàng Trung
 ![Screenshot_20250509-220905](https://github.com/user-attachments/assets/02338b25-185c-4eab-9c33-ae1d129a927f)
-Khi Hp mục tiêu dưới 60%,có [15-30]% cơ hội kết liễu mục tiêu ngay lập tức.Cơ hội sẽ tăng gấp dôi khi Hp của mục tiêu dưới 30% và ưu tiên tấn công mục tiêu có Hp thấp nhất.
+Khi Hp mục tiêu dưới 60%,có [15-30]% cơ hội kết liễu mục tiêu ngay lập tức.Cơ hội sẽ tăng gấp đôi khi Hp của mục tiêu dưới 30% và ưu tiên tấn công mục tiêu có Hp thấp nhất.
 
-Hàn Dương
+Hàn Đương
 ![Screenshot_20250509-220908](https://github.com/user-attachments/assets/6d497356-122d-4bce-8c37-f42a9c06e9e7)
 Các đòn tấn công cơ bản gây thêm sát thương chuẩn bằng (nộ hiện tại*[30-50%]%*Atk) và giữ lại 1 nộ sau khi sử dụng "Scatter" :Kỹ năng chủ động của Longbow.
 
