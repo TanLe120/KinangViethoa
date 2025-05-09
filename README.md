@@ -8,6 +8,6 @@ Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% khi nh�
 
 Trương Cáp
 ![Screenshot_20250509-094242](https://github.com/user-attachments/assets/feac99f8-21e2-42f3-9d96-a4104dcc301e)
-Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 hiệp,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier" hoặc vũ khí(catapult,trebuchet)
+Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 hiệp,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier"hoặc vũ khí(catapult,trebuchet)
 
 Tần Lương Ngọc
