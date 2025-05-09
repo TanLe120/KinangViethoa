@@ -58,5 +58,28 @@ Nhạc Tiến
 ![Screenshot_20250509-165020](https://github.com/user-attachments/assets/b151a516-aa06-4eca-a950-682602dfc123)
 Khi bắt đầu trận chiến,thu hút các công trình của đối phương tấn công bản thân,với 80% cơ hội né tránh các đòn tấn công của công trình.Gây thêm sát thương bằng ([20-40]%* Sát thương đã né tránh) khi tấn công các mục tiêu không phải công trình  vào lần tiếp theo
 
+Tào Nhân
+![Screenshot_20250509-171332](https://github.com/user-attachments/assets/c1d71e66-872e-442b-b344-74f8f1c5204f)
+
+
+Chu Thái
+![Screenshot_20250509-171335](https://github.com/user-attachments/assets/c2438430-7a6d-41b5-9812-c5891e31440e)
+
+
+Trương Phi
+![Screenshot_20250509-171340](https://github.com/user-attachments/assets/034bc350-33d7-4b5b-8944-7f00ba0a74b6)
+
+
+Cao Thuận
+![Screenshot_20250509-171342](https://github.com/user-attachments/assets/bbf89d02-713f-4263-a9d7-5a6424bd9e14)
+
+
+Hoàng Cái 
+![Screenshot_20250509-171345](https://github.com/user-attachments/assets/3067828f-6428-4e34-b14d-4f39043a1349)
+
+
+Liêm Pha
+![Screenshot_20250509-171348](https://github.com/user-attachments/assets/7a3c3b3c-6c2d-4f46-8ed2-07c1521103f8)
+
 
 
