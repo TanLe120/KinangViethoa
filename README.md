@@ -12,3 +12,5 @@ Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.N�
 
 Tần Lương Ngọc
 ![Screenshot_20250509-093743](https://github.com/user-attachments/assets/61e7ae83-364a-4e1d-8755-565f4129f137)
+Khi ném,ngọn giáo sẽ để lại ở vị trí mục tiêu.Ở vòng tiếp theo,ngọn giáo sẽ được thu lại thay vì tấn công.Nếu không có kẻ địch ở vị trí mục tiêu khi thu giáo,nộ sẽ được tăng thêm 75% ,nếu còn kẻ địch gây ([100-150]%*Atk) sát thương cho mục tiêu
+
