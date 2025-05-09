@@ -24,9 +24,18 @@ Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ 
 
 Lý Tư Dạ
 ![Screenshot_20250509-115042](https://github.com/user-attachments/assets/51e8136c-2706-4c73-afa0-4ff6a2bb8c3f)
-Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Suffer : kỹ năng bị động của modao" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần
+Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Suffer" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần. ("Calvary Suffer" : Kỹ năng bị động của Modao)
 
 Vu Cấm
 ![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
-Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với debuf.Hiệu ứng này kết thúc khi Vu Cấm bị giết
+Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với debuff.Hiệu ứng này kết thúc khi Vu Cấm bị giết
+
+Khương Duy
+![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
+Mỗi lần "Whirlwind" dược giải phóng,nhận dược 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10]lần. ("Whirlwind" : Kỹ năng chủ động của Longsword)
+
+Lữ Mông
+![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
+Giảm nộ tối đa xuóng 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword)
+
 
