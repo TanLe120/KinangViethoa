@@ -68,18 +68,18 @@ Chịu [10-30]% sát thương cho đồng minh trong phạm vi 5 ô và có 100%
 
 Trương Phi
 ![Screenshot_20250509-171340](https://github.com/user-attachments/assets/034bc350-33d7-4b5b-8944-7f00ba0a74b6)
-
+Gầm lên sau khi lao tới,gây thêm [20-50]% sát thương lên tối đa 8 kẻ địch trong phạm vi 2 ô và khiến chúng sợ hãi,không thể di chuyển trong 3 vòng.
 
 Cao Thuận
 ![Screenshot_20250509-171342](https://github.com/user-attachments/assets/bbf89d02-713f-4263-a9d7-5a6424bd9e14)
-
+Khi bắt đầu trận chiến,tăng 10%Hp và [10-30]% Atk cho tất cả đồng minh,không gồm vũ khí(trebuchet,catapult) trong đội quân của Cao Thuận.Trong khi đó,cứ mỗi 1% Hp mất đi,tăng 1% sát thương gây ra.Hiệu ứng này kết thúc khi Cao Thuận bị giết.
 
 Hoàng Cái 
 ![Screenshot_20250509-171345](https://github.com/user-attachments/assets/3067828f-6428-4e34-b14d-4f39043a1349)
-
+Khi bắt đầu vòng đầu tiên,trừ 20% Hp tối đa của bản thân,cấp cho 30 đồng minh gần nhất và bản thân một lá chắn(giáp ảo) bằng [20-50]% và tăng 10% tấn công của họ đến khi kết thúc trận chiến.
 
 Liêm Pha
 ![Screenshot_20250509-171348](https://github.com/user-attachments/assets/7a3c3b3c-6c2d-4f46-8ed2-07c1521103f8)
-
+Nếu Hp trên 50%,tăng 25% sát thương gây ra cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Nếu Hp dưới 50%, giảm 25% sát thương phải chịu cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Ngoài ra tăng hiệu ưng của bản thân thêm [50-100]%.
 
 
