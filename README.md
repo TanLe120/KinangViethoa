@@ -11,3 +11,4 @@ Trương Cáp
 Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 hiệp,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier"hoặc vũ khí(catapult,trebuchet)
 
 Tần Lương Ngọc
+![Screenshot_20250509-093743](https://github.com/user-attachments/assets/61e7ae83-364a-4e1d-8755-565f4129f137)
