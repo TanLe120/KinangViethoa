@@ -4,7 +4,7 @@ Trần Đáo
 
 Triệu Vân
 ![Screenshot_20250509-094239](https://github.com/user-attachments/assets/aaac69b3-ab33-44b0-8edb-56045e2ec310)
-Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% khi nhận sát thương,có thể cộng dồn không giới hạn mỗi vòng(sẽ reset lại từ đầu khi tới lượt hành động bản thân).Tăng sát thương của đòn tấn công tiếp theo thêm [10-20]% sau mỗi lần né tránh thành công(reset lại khi tới lượt hành động bản thân).
+Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% né tránh khi nhận sát thương,có thể cộng dồn không giới hạn mỗi vòng(sau khi hành động xong sẽ reset lại).Tăng sát thương của đòn tấn công tiếp theo thêm [10-20]% sau mỗi lần né tránh thành công(sau khi hành động xong sẽ reset lại).
 
 Trương Cáp
 ![Screenshot_20250509-094242](https://github.com/user-attachments/assets/feac99f8-21e2-42f3-9d96-a4104dcc301e)
