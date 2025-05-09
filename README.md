@@ -44,7 +44,7 @@ Văn Ương
 
 Điển Vi
 ![Screenshot_20250509-152714](https://github.com/user-attachments/assets/74dd75a4-3809-451c-b66f-41736a218dfb)
-Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đa [20-50] lần.Sau khi hiệu ứng dược cộng dồn đến số lần tối đa ,"Unbridled Dance"được + thêm 1. ("Unbridled Dance" : Kỹ năng chủ động của Twin)
+Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đa [20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa ,"Unbridled Dance"được + thêm 1. ("Unbridled Dance" : Kỹ năng chủ động của Twin)
 
 Tấn Quỳnh
 ![Screenshot_20250509-152718](https://github.com/user-attachments/assets/90ef712a-6573-4078-89b5-7694f9969145)
