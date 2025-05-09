@@ -49,3 +49,11 @@ Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đ
 Tấn Quỳnh
 ![Screenshot_20250509-152718](https://github.com/user-attachments/assets/90ef712a-6573-4078-89b5-7694f9969145)
 "Unbridled Dance" lướt tới tướng dịch hoặc mục tiêu có tấn công cao nhất gây ra sát thương bằng (200%*Atk) và tỉ lệ đỡ đòn +20%.Trong khi đó, 2 đòn đánh cơ bản tiếp theo gây thêm sát thương bằng ([15-30%]*Hp tối đa của mục tiêu)
+
+Từ Thịnh
+![Screenshot_20250509-165017](https://github.com/user-attachments/assets/e0e2435e-8cf6-4d79-a9af-4f187186f2e5)
+Khi giải phóng Shield,cũng cấp Safe Shelte cho 10 đồng minh,khiến họ miễn nhiễm với hiệu ứng có hại và nhận [10-30]% hút máu trong 5 vòng.Trong khi đó,đồng minh trong phạm vi 5 ô bị hiệu ứng có hại,nộ của bản thân sẽ được tăng thêm 1
+
+Nhạc Tiến
+![Screenshot_20250509-165020](https://github.com/user-attachments/assets/b151a516-aa06-4eca-a950-682602dfc123)
+
