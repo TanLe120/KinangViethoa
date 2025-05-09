@@ -85,3 +85,25 @@ Nếu Hp trên 50%,tăng 25% sát thương gây ra cho bản thân và tối đa
 Tào Tháo
 ![Screenshot_20250509-212843](https://github.com/user-attachments/assets/f575434e-a9e3-4236-ac3d-41d08caa2a39)
 Mỗi đòn tấn công sẽ cấp 1 lớp tinh thần cho tối đa 20 đồng minh trong phạm vi 3 ô.Mỗi lớp tinh thần tăng 10 máu tối đa và 1 tấn công.Có thể cộng dồn tối đa [10-20] lớp.Tất cả các lớp Tinh thần sẽ bị xóa sau khi Tào Tháo chết.
+
+Đặng Ngải
+![Screenshot_20250509-220902](https://github.com/user-attachments/assets/47ded97b-d301-4299-aef4-226a7caca221)
+Khi bắt đầu vòng đầu tiên,gửi Lệnh dồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 vòng,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi vòng cho đến khi kết thúc trận chiến.
+
+Hoàng Trung
+![Screenshot_20250509-220905](https://github.com/user-attachments/assets/02338b25-185c-4eab-9c33-ae1d129a927f)
+Khi Hp mục tiêu dưới 60%,có [15-30]% cơ hội kết liễu mục tiêu ngay lập tức.Cơ hội sẽ tăng gấp dôi khi Hp của mục tiêu dưới 30% và ưu tiên tấn công mục tiêu có Hp thấp nhất.
+
+Hàn Dương
+![Screenshot_20250509-220908](https://github.com/user-attachments/assets/6d497356-122d-4bce-8c37-f42a9c06e9e7)
+Các đòn tấn công cơ bản gây thêm sát thương chuẩn bằng (nộ hiện tại*[30-50%]%*Atk) và giữ lại 1 nộ sau khi sử dụng "Scatter" :Kỹ năng chủ động của Longbow.
+
+Lưu Bị
+![Screenshot_20250509-220913](https://github.com/user-attachments/assets/5d2f5207-a0b2-4857-ad24-456beee628e2)
+"Rapid Fire" không gây sát thương cho kẻ địch nữa và thay vào đó,hồi [10-20]% Hp tối đa của đơn vị đồng minh có tỉ lệ Hp thấp nhất.
+
+Lưu Sủng
+![Screenshot_20250509-220918](https://github.com/user-attachments/assets/770c59bb-8a10-4ec1-8f1e-a447cedc46f2)
+Khi triển khai "Rapid Fire",cứ mỗi mũi tên bắn ra sẽ có [20-50]% cơ hội bắn thêm 1 mũi tên nữa,có thể bắn tối đa 10 mũi tên.
+
+
