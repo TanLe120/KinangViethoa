@@ -38,4 +38,14 @@ Lữ Mông
 ![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
 Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword)
 
+Văn Ương
+![Screenshot_20250509-152711](https://github.com/user-attachments/assets/d9651eee-ce97-4b9a-8045-4364d56aa796)
+"Unbridled Dance" chỉ gây 1 lượng sát thương nhất định.Sau mỗi "Unbridled Dance",có cơ hội lướt thêm lần nữa.Cơ hội lướt lần đầu là 100% và cơ hội tiếp theo là[40-70]%.Có thể lướt tới 7 lần
+
+Điển Vi
+![Screenshot_20250509-152714](https://github.com/user-attachments/assets/74dd75a4-3809-451c-b66f-41736a218dfb)
+
+
+Tấn Quỳnh
+![Screenshot_20250509-152718](https://github.com/user-attachments/assets/90ef712a-6573-4078-89b5-7694f9969145)
 
