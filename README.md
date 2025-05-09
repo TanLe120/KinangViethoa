@@ -36,6 +36,6 @@ Mỗi lần "Whirlwind" được giải phóng,nhận được 4 tấn công và
 
 Lữ Mông
 ![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
-Giảm nộ tối đa xuóng 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword)
+Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword)
 
 
