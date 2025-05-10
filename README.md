@@ -142,7 +142,7 @@ Hoắc Khứ Bệnh
 ![Screenshot_20250510-081556](https://github.com/user-attachments/assets/cb7041ea-6e91-4c88-80cf-854f6ac2f3d3)
 Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội quân hiện tại của Hoắc tung "Leep Slash" sẽ tăng 1 nộ khí cho một Kỵ Kiếm khác trong đội quân của Hoắc và tăng [5-10]% sát thương "Leep Slash" của họ vào lần tiếp theo.Hiệu ứng này có thể cộng dồn và sẽ kết thúc sau khi Hoắc Khứ Bệnh bị giết.
 
-**Lữ Bố**
+**Lữ Bố** chưa hiểu cách tính Dmg lắm,ai biết giải đáp giúp tôi
 ![Screenshot_20250510-081559](https://github.com/user-attachments/assets/e8690def-0d76-4708-9688-0c96303f97e9)
 Nếu mục tiêu trúng đòn ít hơn giá trị ngưỡng khi quét(phạm vi quét gấp 4 lần),nhân sát thương gây ra với[Giá trị ngưỡng/số mục tiêu trúng đòn] và lần quét luôn phục hồi [150-200] máu.
 
