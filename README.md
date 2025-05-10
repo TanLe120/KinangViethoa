@@ -144,7 +144,7 @@ Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội q
 
 **Lữ Bố**
 ![Screenshot_20250510-081559](https://github.com/user-attachments/assets/e8690def-0d76-4708-9688-0c96303f97e9)
-Nếu mục tiêu trúng đòn ít hơn giá trị ngưỡng khi quét(phạm vi quét gấp 4 lân),nhân sát thương gây ra với[Giá trị ngưỡng/số mục tiêu trúng đòn] và lần quét luôn phục hồi [150-200] máu.
+Nếu mục tiêu trúng đòn ít hơn giá trị ngưỡng khi quét(phạm vi quét gấp 4 lần),nhân sát thương gây ra với[Giá trị ngưỡng/số mục tiêu trúng đòn] và lần quét luôn phục hồi [150-200] máu.
 
 **Mã Siêu**
 ![Screenshot_20250510-081602](https://github.com/user-attachments/assets/1b65f217-6e7b-4bad-befd-6cef4bf087bc)
