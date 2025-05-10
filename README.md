@@ -148,8 +148,8 @@ Nếu mục tiêu trúng đòn ít hơn giá trị ngưỡng khi quét(phạm vi
 
 **Mã Siêu**
 ![Screenshot_20250510-081602](https://github.com/user-attachments/assets/1b65f217-6e7b-4bad-befd-6cef4bf087bc)
-Phạm vi quét+1,sau khi quét,mục tiêu có lượng máu thấp nhất trong phạm vi quét sẽ bị truy duổi gây sát thương chuẩn bằng [100-150]% tấn công.
+Phạm vi quét+1,sau khi quét,mục tiêu có lượng máu thấp nhất trong phạm vi quét sẽ bị truy đuổi gây sát thương chuẩn bằng [100-150]% tấn công.
 
 **Hạng Vũ**
 ![Screenshot_20250510-081605](https://github.com/user-attachments/assets/e8b573d0-5c69-4779-a8d0-243660791827)
-Tăng sát thương của quét lên([1-5]* số mục tiêu trúng đòn)% và dẩy lùi mục tiêu 1 ô khiến mục tiêu không thể di chuyển trong 1 lượt.
+Tăng sát thương của quét lên([1-5]* số mục tiêu trúng đòn)% và đẩy lùi mục tiêu 1 ô khiến mục tiêu không thể di chuyển trong 1 lượt.
