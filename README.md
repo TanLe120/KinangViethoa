@@ -134,7 +134,7 @@ Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 
 ![Screenshot_20250510-081537](https://github.com/user-attachments/assets/252eb0aa-6200-46ed-a28d-e110b3994393)
 Sau khi bắn 1 mũi tên lửa,ngọn lửa trên mặt đất có [20-50]% cơ hội lan ra một ô vuông về phía kẻ địch.
 
-**Trương Liêu** Test lại
+**Trương Liêu** 
 ![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
 Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sát thương phải chịu cho Trương Liêu trong 1 lượt.
 
@@ -164,11 +164,11 @@ Cứ mỗi dòn "Chop" được tung ra,dòn "Chop" tiếp theo sẽ biến thà
 
 **Hứa Chử**
 ![Screenshot_20250510-183245](https://github.com/user-attachments/assets/092bf8bc-ef88-4550-ba3d-6a7194e4286f)
-Sau khi va chạm,Atk +[100-200]%, -20% mỗi hiệp.Khi máu của bản thân giảm xuống 50% lần đầu,sát thương gây ra tăng 30% kéo dài cho đến khi kết thúc trận chiến.
+Sau khi va chạm,tấn công +[100-200]%, -20% tấn công mỗi hiệp.Khi máu của bản thân giảm xuống 50% lần đầu,sát thương gây ra tăng 30% kéo dài cho đến khi kết thúc trận chiến.
 
 **Bùi Hành Nghiễm**
 ![Screenshot_20250510-183248](https://github.com/user-attachments/assets/36d817e1-d010-4957-9de1-0e6c3a6e980d)
-Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ đẩy lùi mục tiêu 1 ô.Khi mục tiêu bị đẩy lùi hoặc tiến , gây thêm sát thương bằng (35%*Atk) cho mục tiêu với mỗi ô di chuyển.
+Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ đẩy lùi mục tiêu 1 ô.Khi mục tiêu bị đẩy lùi hoặc lên, gây thêm sát thương bằng (35%*Atk) cho mục tiêu với mỗi ô di chuyển.
 
 **Đổng Trác**
 ![Screenshot_20250510-183251](https://github.com/user-attachments/assets/45e6ac2a-46e1-4a74-8d20-34b85ec766e2)
