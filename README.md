@@ -136,7 +136,7 @@ Sau khi bắn 1 mũi tên lửa,ngọn lửa trên mặt đất có [20-50]% cơ
 
 **Trương Liêu** Test lại
 ![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
-Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sât thương trong 1 vòng.
+Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sát thương phải chịu cho Trương Liêu trong 1 vòng.
 
 Hoắc Khứ Bệnh
 ![Screenshot_20250510-081556](https://github.com/user-attachments/assets/cb7041ea-6e91-4c88-80cf-854f6ac2f3d3)
