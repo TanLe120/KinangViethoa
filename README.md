@@ -129,3 +129,27 @@ Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn côn
 **Tôn Thượng Hương**
 ![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
 Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1.
+
+**Lục Tốn**
+![Screenshot_20250510-081537](https://github.com/user-attachments/assets/252eb0aa-6200-46ed-a28d-e110b3994393)
+Sau khi bắn 1 mũi tên lửa,ngọn lửa trên mặt đất có [20-50]% cơ hội lan ra một ô vuông về phía kẻ địch.
+
+**Trương Liêu** Test lại
+![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
+Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sât thương trong 1 vòng.
+
+Hoắc Khứ Bệnh
+![Screenshot_20250510-081556](https://github.com/user-attachments/assets/cb7041ea-6e91-4c88-80cf-854f6ac2f3d3)
+Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội quân hiện tại của Hoắc tung "Leep Slash" sẽ tăng 1 nộ khí cho một Kỵ Kiếm khác trong đội quân của Hoắc và tăng [5-10]% sát thương Leep Slash của họ vào lần tiếp theo.Hiệu ứng này có thể cộng dồn và sẽ kết thúc sau khi Hoắc Khứ Bệnh bị giết.
+
+**Lữ Bố**
+![Screenshot_20250510-081559](https://github.com/user-attachments/assets/e8690def-0d76-4708-9688-0c96303f97e9)
+Nếu mục tiêu trúng đòn ít hơn giá trị ngưỡng khi quét(phạm vi quét gấp 4 lân),nhân sát thương gây ra với[Giá trị ngưỡng/số mục tiêu trúng đòn] và lần quét luôn phục hồi [150-200] máu.
+
+**Mã Siêu**
+![Screenshot_20250510-081602](https://github.com/user-attachments/assets/1b65f217-6e7b-4bad-befd-6cef4bf087bc)
+Phạm vi quét+1,sau khi quét,mục tiêu có lượng máu thấp nhất trong phạm vi quét sẽ bị truy duổi gây sát thương chuẩn bằng [100-150]% tấn công.
+
+**Hạng Vũ**
+![Screenshot_20250510-081605](https://github.com/user-attachments/assets/e8b573d0-5c69-4779-a8d0-243660791827)
+Tăng sát thương của quét lên([1-5]* số mục tiêu trúng đòn)% và dẩy lùi mục tiêu 1 ô khiến mục tiêu không thể di chuyển trong 1 lượt.
