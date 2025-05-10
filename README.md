@@ -172,3 +172,20 @@ Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ
 
 **Đổng Trác**
 ![Screenshot_20250510-183251](https://github.com/user-attachments/assets/45e6ac2a-46e1-4a74-8d20-34b85ec766e2)
+Khi Va chạm được giải phóng, mục tiêu bị hất tung sẽ phải chịu thêm sát thương chuẩn bằng (4%*HP tối đa) và HP tối đa của mục tiêu bị hất tung giảm 4%, có thể cộng dồn tối đa [10-20] lần và kéo dài cho đến khi Đổng Trác chết.
+
+**Hạ Hầu Uyên**
+![Screenshot_20250510-183255](https://github.com/user-attachments/assets/15a2481d-5add-4b8d-a7a7-0c95aea9298d)
+Với mỗi ô di chuyển, sát thương tăng 5%, có thể cộng dồn tối đa [10-20] lần và sẽ được cộng dồn lại nếu không có đòn tấn công nào được tung ra trong vòng đó.
+
+**Thái Sử Từ**
+![Screenshot_20250510-183258](https://github.com/user-attachments/assets/70587d45-b22e-4671-b9c4-fd5fd792befd)
+Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tăng đầy Rage và tác động thêm 1 lượt nữa.
+
+**Từ Hoảng**
+![Screenshot_20250510-183301](https://github.com/user-attachments/assets/0fbed957-9fc8-4bbe-90ae-a7ae57558d23)
+Khi gây sát thương lên mục tiêu, nó sẽ phá vỡ lớp giáp của mục tiêu, tăng sát thương phải chịu thêm [10-20]%. Có th cộng tối đa 10 lần và kéo dài trong 3 lượt.
+
+**Trình Giảo Kim**
+![Screenshot_20250510-183305](https://github.com/user-attachments/assets/909a1cfb-7c00-4c1a-b074-6be3cb9f136d)
+Mỗi lần tấn công một mục tiêu mới, bạn sẽ nhận được 3 đòn tấn công đặc biệt. Đòn tấn công đơn mục tiêu đầu tiên tăng 50% sát thương. Đòn chém thứ hai phục hồi 5% lượng máu tối đa của bạn cho mỗi mục tiêu trúng đòn. Đòn tấn công đơn mục tiêu thứ ba gây thêm sát thương chuẩn bằng ([10-30]%*lượng máu đã mất của mục tiêu).
