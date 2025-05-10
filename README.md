@@ -4,23 +4,23 @@
 
 **Triệu Vân**
 ![Screenshot_20250509-094239](https://github.com/user-attachments/assets/aaac69b3-ab33-44b0-8edb-56045e2ec310)
-Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% né tránh khi nhận sát thương,có thể cộng dồn không giới hạn mỗi vòng(sau khi hành động xong sẽ reset lại).Tăng sát thương của đòn tấn công tiếp theo thêm [10-20]% sau mỗi lần né tránh thành công(sau khi hành động xong sẽ reset lại).
+Né tránh bất kỳ +10%(né cả đánh thường và kỹ năng),+5% né tránh khi nhận sát thương,có thể cộng dồn không giới hạn mỗi lượt(sau khi hành động xong sẽ reset lại).Tăng sát thương của đòn tấn công tiếp theo thêm [10-20]% sau mỗi lần né tránh thành công(sau khi hành động xong sẽ reset lại).
 
 **Trương Cáp**
 ![Screenshot_20250509-094242](https://github.com/user-attachments/assets/feac99f8-21e2-42f3-9d96-a4104dcc301e)
-Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 hiệp,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier"hoặc vũ khí(catapult,trebuchet).
+Tăng sát thương của"Project:tên kỹ năng của Lancer" lên [10-30]%.Nếu mục tiêu bị "Project" tiêu diệt sẽ làm kinh hoàng tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu khiến chúng không thể tấn công hoặc di chuyển trong 1 lượt,ngoại trừ những kẻ địch trong thế khiên "Shield Stance :kỹ năng Heavy Shield Soldier"hoặc vũ khí(catapult,trebuchet).
 
 **Tần Lương Ngọc**
 ![Screenshot_20250509-093743](https://github.com/user-attachments/assets/61e7ae83-364a-4e1d-8755-565f4129f137)
-Khi ném,ngọn giáo sẽ để lại ở vị trí mục tiêu.Ở vòng tiếp theo,ngọn giáo sẽ được thu lại thay vì tấn công.Nếu không có kẻ địch ở vị trí mục tiêu khi thu giáo,nộ sẽ được tăng thêm 75% ,nếu còn kẻ địch,gây ([100-150]%*Atk) sát thương cho mục tiêu.
+Khi ném,ngọn giáo sẽ để lại ở vị trí mục tiêu.Ở lượt tiếp theo,ngọn giáo sẽ được thu lại thay vì tấn công.Nếu không có kẻ địch ở vị trí mục tiêu khi thu giáo,nộ sẽ được tăng thêm 75% ,nếu còn kẻ địch,gây ([100-150]%*Atk) sát thương cho mục tiêu.
 
 **Bạch Khởi**
 ![Screenshot_20250509-111821](https://github.com/user-attachments/assets/d6212b0d-0da5-472d-b6db-ce7c3663f185)
-Khi tước vũ khí của mục tiêu,chuyển [50-100%]% sức mạnh tấn công bị giảm của mục tiêu cho tối đa 12 dồng minh trong phạm vi 4 ô xung quanh mục tiêu trong 3 vòng,ưu tiên "tước vũ khí:Disarm" của mục tiêu có tấn công cao nhất.
+Khi tước vũ khí của mục tiêu,chuyển [50-100%]% sức mạnh tấn công bị giảm của mục tiêu cho tối đa 12 đồng minh trong phạm vi 4 ô xung quanh mục tiêu trong 3 lượt,ưu tiên "tước vũ khí:Disarm" của mục tiêu có tấn công cao nhất.
 
 **Chu Du**
 ![Screenshot_20250509-111922](https://github.com/user-attachments/assets/70b391b5-2032-45ec-bc29-d836f77245fb)
-Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 vòng.Khi bất kỳ mục tiêu nào chịu sát thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg.
+Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ địch(trừ trebuchet,catapult)với phạm vi 2 ô trong 3 lượt.Khi bất kỳ mục tiêu nào chịu sát thương,các mục tiêu được kết nối khác sẽ chịu[20-40]% Dmg.
 
 **Lý Tư Dạ**
 ![Screenshot_20250509-115042](https://github.com/user-attachments/assets/51e8136c-2706-4c73-afa0-4ff6a2bb8c3f)
@@ -28,7 +28,7 @@ Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Su
 
 **Vu Cấm**
 ![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
-Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh không phải vũ khí(trebuchet,catapult) trong đội quân hiện tại với Vu Cấm và khiến họ miễn nhiễm với hiệu ứng có hại.Hiệu ứng này kết thúc khi Vu Cấm bị giết.
+Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương phải chịu thêm [50-100]% cho tất cả lính đồng minh trong đội quân hiện tại với Vu Cấm ,không gồm vũ khí(trebuchet,catapult) và khiến họ miễn nhiễm với hiệu ứng có hại.Hiệu ứng này kết thúc khi Vu Cấm bị giết.
 
 **Khương Duy**
 ![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
@@ -52,7 +52,7 @@ Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đ
 
 **Từ Thịnh**
 ![Screenshot_20250509-165017](https://github.com/user-attachments/assets/e0e2435e-8cf6-4d79-a9af-4f187186f2e5)
-Khi giải phóng Shield,cũng cấp Safe Shelte cho 10 đồng minh,khiến họ miễn nhiễm với hiệu ứng có hại và nhận [10-30]% hút máu trong 5 vòng.Trong khi đó,đồng minh trong phạm vi 5 ô bị hiệu ứng có hại,nộ của bản thân sẽ được tăng thêm 1.
+Khi giải phóng Shield,cũng cấp "Safe Shelte" cho 10 đồng minh,khiến họ miễn nhiễm với hiệu ứng có hại và nhận [10-30]% hút máu trong 5 lượt.Trong khi đó,đồng minh trong phạm vi 5 ô bị hiệu ứng có hại,nộ của bản thân sẽ được tăng thêm 1.
 
 **Nhạc Tiến**
 ![Screenshot_20250509-165020](https://github.com/user-attachments/assets/b151a516-aa06-4eca-a950-682602dfc123)
@@ -60,7 +60,7 @@ Khi bắt đầu trận chiến,thu hút các công trình của đối phương
 
 **Tào Nhân**
 ![Screenshot_20250509-171332](https://github.com/user-attachments/assets/c1d71e66-872e-442b-b344-74f8f1c5204f)
-Mỗi lần chịu sát thương,Hp tối đa+8,có thể cộng dồn tối đa[20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa,phục hồi Hp bằng 1% Hp tối đa mỗi vòng.
+Mỗi lần chịu sát thương,Hp tối đa+8,có thể cộng dồn tối đa[20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa,phục hồi Hp bằng 1% Hp tối đa mỗi lượt.
 
 **Chu Thái**
 ![Screenshot_20250509-171335](https://github.com/user-attachments/assets/c2438430-7a6d-41b5-9812-c5891e31440e)
@@ -68,7 +68,7 @@ Chịu [10-30]% sát thương cho đồng minh trong phạm vi 5 ô và có 100%
 
 **Trương Phi**
 ![Screenshot_20250509-171340](https://github.com/user-attachments/assets/034bc350-33d7-4b5b-8944-7f00ba0a74b6)
-Gầm lên sau khi lao tới,gây thêm [20-50]% sát thương lên tối đa 8 kẻ địch trong phạm vi 2 ô và khiến chúng sợ hãi,không thể di chuyển trong 3 vòng.
+Gầm lên sau khi lao tới,gây thêm [20-50]% sát thương lên tối đa 8 kẻ địch trong phạm vi 2 ô và khiến chúng sợ hãi,không thể di chuyển trong 3 lượt.
 
 **Cao Thuận**
 ![Screenshot_20250509-171342](https://github.com/user-attachments/assets/bbf89d02-713f-4263-a9d7-5a6424bd9e14)
@@ -88,7 +88,7 @@ Mỗi đòn tấn công sẽ cấp 1 lớp tinh thần cho tối đa 20 đồng 
 
 **Đặng Ngải**
 ![Screenshot_20250509-220902](https://github.com/user-attachments/assets/47ded97b-d301-4299-aef4-226a7caca221)
-Khi bắt đầu vòng đầu tiên,gửi Lệnh dồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 vòng,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi vòng cho đến khi kết thúc trận chiến.
+Khi bắt đầu vòng đầu tiên,gửi Lệnh đồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 lượt,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi vòng cho đến khi kết thúc trận chiến.
 
 **Hoàng Trung**
 ![Screenshot_20250509-220905](https://github.com/user-attachments/assets/02338b25-185c-4eab-9c33-ae1d129a927f)
@@ -108,11 +108,11 @@ Khi triển khai "Rapid Fire",cứ mỗi mũi tên bắn ra sẽ có [20-50]% c�
 
 **Vương Dị**
 ![Screenshot_20250509-230143](https://github.com/user-attachments/assets/2f94f009-062a-4a8d-81d2-59d9e4b46580)
-Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công đồng minh của chúng trong 2 vòng.
+Sau khi mũi tên độc bắn trúng mục tiêu,Sương mù độc sẽ được tạo ra khiến tối đa 8 kẻ địch trong phạm vi 2 ô rơi vào hỗn loạn và có [40-80]% khả năng tấn công đồng minh của chúng trong 2 lượt.
 
 **Lý Nho**
 ![Screenshot_20250509-230147](https://github.com/user-attachments/assets/c2099bd9-b7f0-4f84-906f-5dad31f31512)
-"Poison Arrow" cũng sẽ gây "Poison Wine" trong 3 vòng.Khi mục tiêu chết hoặc vào cuối lượt,gây sát thương chuẩn bằng [10-20]% tổng sát thương mà mục tiêu phải chịu trong thời gian "Poison Wine" lên tối đa 8 kể địch trong phạm vi 2 ô.
+"Poison Arrow" cũng sẽ gây "Poison Wine" trong 3 lượt.Khi mục tiêu chết hoặc vào cuối lượt,gây sát thương chuẩn bằng [10-20]% tổng sát thương mà mục tiêu phải chịu trong thời gian "Poison Wine" lên tối đa 8 kể địch trong phạm vi 2 ô.
 
 **Dưỡng Do Cơ**
 ![Screenshot_20250509-230150](https://github.com/user-attachments/assets/e8fa8718-41f3-4d9a-9cb6-1fa452429ef1)
@@ -128,7 +128,7 @@ Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn côn
 
 **Tôn Thượng Hương**
 ![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
-Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 vòng và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1.
+Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 lượt và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1.
 
 **Lục Tốn**
 ![Screenshot_20250510-081537](https://github.com/user-attachments/assets/252eb0aa-6200-46ed-a28d-e110b3994393)
@@ -136,11 +136,11 @@ Sau khi bắn 1 mũi tên lửa,ngọn lửa trên mặt đất có [20-50]% cơ
 
 **Trương Liêu** Test lại
 ![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
-Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sát thương phải chịu cho Trương Liêu trong 1 vòng.
+Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sát thương phải chịu cho Trương Liêu trong 1 lượt.
 
 Hoắc Khứ Bệnh
 ![Screenshot_20250510-081556](https://github.com/user-attachments/assets/cb7041ea-6e91-4c88-80cf-854f6ac2f3d3)
-Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội quân hiện tại của Hoắc tung "Leep Slash" sẽ tăng 1 nộ khí cho một Kỵ Kiếm khác trong đội quân của Hoắc và tăng [5-10]% sát thương Leep Slash của họ vào lần tiếp theo.Hiệu ứng này có thể cộng dồn và sẽ kết thúc sau khi Hoắc Khứ Bệnh bị giết.
+Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội quân hiện tại của Hoắc tung "Leep Slash" sẽ tăng 1 nộ khí cho một Kỵ Kiếm khác trong đội quân của Hoắc và tăng [5-10]% sát thương "Leep Slash" của họ vào lần tiếp theo.Hiệu ứng này có thể cộng dồn và sẽ kết thúc sau khi Hoắc Khứ Bệnh bị giết.
 
 **Lữ Bố**
 ![Screenshot_20250510-081559](https://github.com/user-attachments/assets/e8690def-0d76-4708-9688-0c96303f97e9)
@@ -153,3 +153,22 @@ Phạm vi quét+1,sau khi quét,mục tiêu có lượng máu thấp nhất tron
 **Hạng Vũ**
 ![Screenshot_20250510-081605](https://github.com/user-attachments/assets/e8b573d0-5c69-4779-a8d0-243660791827)
 Tăng sát thương của quét lên([1-5]* số mục tiêu trúng đòn)% và đẩy lùi mục tiêu 1 ô khiến mục tiêu không thể di chuyển trong 1 lượt.
+
+**Quan Vũ**
+![Screenshot_20250510-183239](https://github.com/user-attachments/assets/260705c1-19d4-446f-b474-70a79f483a86)
+Mỗi lần tấn công mục tiêu mới,tăng 100% nộ.Tăng sát thương "Chop" lên [20-50]% trong 3 lần tiếp theo.( tăng sát thương trong 3 lần Q.Vũ sử dụng kỹ năng chủ động). 
+
+**Quan Ngân Bình**
+![Screenshot_20250510-183242](https://github.com/user-attachments/assets/63846d72-3a17-4430-aea7-85de2b917fdf)
+Cứ mỗi dòn "Chop" được tung ra,dòn "Chop" tiếp theo sẽ biến thành "Tiger Roar" gây thêm sát thương chuẩn băng[50-100]% của đòn "Chop" này lên tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu và làm choáng chúng trong 1 lượt. ("Chop" : Kỹ năng chủ động của Broadsword Calv).
+
+**Hứa Chử**
+![Screenshot_20250510-183245](https://github.com/user-attachments/assets/092bf8bc-ef88-4550-ba3d-6a7194e4286f)
+Sau khi va chạm,Atk +[100-200]%, -20% mỗi hiệp.Khi máu của bản thân giảm xuống 50% lần đầu,sát thương gây ra tăng 30% kéo dài cho đến khi kết thúc trận chiến.
+
+**Bùi Hành Nghiễm**
+![Screenshot_20250510-183248](https://github.com/user-attachments/assets/36d817e1-d010-4957-9de1-0e6c3a6e980d)
+Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ đẩy lùi mục tiêu 1 ô.Khi mục tiêu bị đẩy lùi hoặc tiến , gây thêm sát thương bằng (35%*Atk) cho mục tiêu với mỗi ô di chuyển.
+
+**Đổng Trác**
+![Screenshot_20250510-183251](https://github.com/user-attachments/assets/45e6ac2a-46e1-4a74-8d20-34b85ec766e2)
