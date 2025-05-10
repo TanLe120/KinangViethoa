@@ -180,7 +180,7 @@ Với mỗi ô di chuyển, sát thương tăng 5%, có thể cộng dồn tối
 
 **Thái Sử Từ**
 ![Screenshot_20250510-183258](https://github.com/user-attachments/assets/70587d45-b22e-4671-b9c4-fd5fd792befd)
-Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tăng đầy Rage và tác động thêm 1 lượt nữa.
+Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tăng đầy Rage và hành động thêm 1 lượt nữa.
 
 **Từ Hoảng**
 ![Screenshot_20250510-183301](https://github.com/user-attachments/assets/0fbed957-9fc8-4bbe-90ae-a7ae57558d23)
