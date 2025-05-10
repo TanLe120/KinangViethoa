@@ -184,7 +184,7 @@ Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tă
 
 **Từ Hoảng**
 ![Screenshot_20250510-183301](https://github.com/user-attachments/assets/0fbed957-9fc8-4bbe-90ae-a7ae57558d23)
-Khi gây sát thương lên mục tiêu, nó sẽ phá vỡ lớp giáp của mục tiêu, tăng sát thương phải chịu thêm [10-20]%. Có th cộng tối đa 10 lần và kéo dài trong 3 lượt.
+Khi gây sát thương lên mục tiêu, nó sẽ phá vỡ lớp giáp của mục tiêu, tăng sát thương phải chịu thêm [10-20]%. Có thể cộng tối đa 10 lần và kéo dài trong 3 lượt.
 
 **Trình Giảo Kim**
 ![Screenshot_20250510-183305](https://github.com/user-attachments/assets/909a1cfb-7c00-4c1a-b074-6be3cb9f136d)
