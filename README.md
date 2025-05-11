@@ -176,11 +176,11 @@ Khi Va chạm được giải phóng, mục tiêu bị hất tung sẽ phải ch
 
 **Hạ Hầu Uyên**
 ![Screenshot_20250510-183255](https://github.com/user-attachments/assets/15a2481d-5add-4b8d-a7a7-0c95aea9298d)
-Với mỗi ô di chuyển, sát thương tăng 5%, có thể cộng dồn tối đa [10-20] lần và sẽ được cộng dồn lại nếu không có đòn tấn công nào được tung ra trong vòng đó.
+Với mỗi ô di chuyển, sát thương tăng 5%, có thể cộng dồn tối đa [10-20] lần và sẽ được cộng dồn lại nếu không có đòn tấn công nào được tung ra trong lượt đó.
 
 **Thái Sử Từ**
 ![Screenshot_20250510-183258](https://github.com/user-attachments/assets/70587d45-b22e-4671-b9c4-fd5fd792befd)
-Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tăng đầy Rage và hành động thêm 1 lượt nữa.
+Sau khi đòn tấn công cơ bản được tung ra, có [20-40]% cơ hội tăng đầy nộ và hành động thêm 1 lượt nữa.
 
 **Từ Hoảng**
 ![Screenshot_20250510-183301](https://github.com/user-attachments/assets/0fbed957-9fc8-4bbe-90ae-a7ae57558d23)
