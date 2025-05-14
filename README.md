@@ -40,7 +40,7 @@ Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" 
 
 **Văn Ương**
 ![Screenshot_20250509-152711](https://github.com/user-attachments/assets/d9651eee-ce97-4b9a-8045-4364d56aa796)
-"Unbridled Dance" chỉ gây 1 lượng sát thương nhất định.Sau mỗi "Unbridled Dance",có cơ hội lướt thêm lần nữa.Cơ hội lướt lần đầu là 100% và cơ hội tiếp theo là[40-70]%.Có thể lướt tới 7 lần.("Unbridled Dance" : Kỹ năng chủ động của Twin).
+"Unbridled Dance" gây 1 đợt sát thương .Sau mỗi "Unbridled Dance",có cơ hội lướt thêm lần nữa.Cơ hội lướt lần đầu là 100% và cơ hội tiếp theo là[40-70]%.Có thể lướt tới 7 lần.("Unbridled Dance" : Kỹ năng chủ động của Twin).
 
 **Điển Vi**
 ![Screenshot_20250509-152714](https://github.com/user-attachments/assets/74dd75a4-3809-451c-b66f-41736a218dfb)
