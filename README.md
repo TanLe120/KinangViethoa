@@ -132,7 +132,7 @@ Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 
 
 **Lục Tốn**
 ![Screenshot_20250510-081537](https://github.com/user-attachments/assets/252eb0aa-6200-46ed-a28d-e110b3994393)
-Sau khi bắn 1 mũi tên lửa,ngọn lửa trên mặt đất có [20-50]% cơ hội lan ra một ô vuông về phía kẻ địch.
+Sau khi bắn 1 mũi tên lửa,có [20-50]% cơ hội ngọn lửa trên mặt đất sẽ lan ra một ô vuông về phía kẻ địch.
 
 **Trương Liêu** 
 ![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
