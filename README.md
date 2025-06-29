@@ -46,7 +46,7 @@ Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" 
 ![Screenshot_20250509-152714](https://github.com/user-attachments/assets/74dd75a4-3809-451c-b66f-41736a218dfb)
 Mỗi lần nhận sát thương,tấn công +1,có thể cộng đồn tối đa [20-50] lần.Sau khi hiệu ứng được cộng dồn đến số lần tối đa ,"Unbridled Dance" sẽ được + thêm 1. ("Unbridled Dance" : Kỹ năng chủ động của Twin).
 
-**Tấn Quỳnh**
+**Tần Quỳnh**
 ![Screenshot_20250509-152718](https://github.com/user-attachments/assets/90ef712a-6573-4078-89b5-7694f9969145)
 "Unbridled Dance" lướt tới tướng dịch hoặc mục tiêu có tấn công cao nhất gây ra sát thương bằng (200%*Atk) và tỉ lệ đỡ đòn +20%.Trong khi đó, 2 đòn đánh cơ bản tiếp theo gây thêm sát thương bằng ([15-30%]*Hp tối đa của mục tiêu).
 
