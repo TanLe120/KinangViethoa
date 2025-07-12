@@ -24,7 +24,7 @@ Khi tước vũ khí mục tiêu,kết nối mục tiêu với tối đa 8 kẻ 
 
 **Lý Tư Dạ**
 ![Screenshot_20250509-115042](https://github.com/user-attachments/assets/51e8136c-2706-4c73-afa0-4ff6a2bb8c3f)
-Gây sát thương bằng với với sát thương ngẫu nhiên do "Calvary Suffer" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần. ("Calvary Suffer" : Kỹ năng bị động của Modao).
+Gây sát thương bằng với với sát thương ngẫu nhiên do "Cavalry Suffer" gây ra.Nhận 2 tấn công và 3% né tránh khi bất kỳ kẻ địch nào chết trong phạm vi tấn công của bản thân,có thể cộng dồn tối đa [5-15]lần. ("Cavalry Suffer" : Kỹ năng bị động của Modao).
 
 **Vu Cấm**
 ![Screenshot_20250509-115049](https://github.com/user-attachments/assets/a30c3298-f9ce-447b-a723-4724df29d451)
@@ -32,11 +32,11 @@ Khi bắt đầu trận đấu,tăng sát thương gây ra và sát thương ph�
 
 **Khương Duy**
 ![Screenshot_20250509-124120](https://github.com/user-attachments/assets/cff007d1-ae6e-4f5a-bb74-5bf37ec3e5df)
-Mỗi lần "Whirlwind" được giải phóng,nhận được 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10] lần. ("Whirlwind" : Kỹ năng chủ động của Longsword).
+Mỗi lần "Whirlwind" được giải phóng,nhận được 4 tấn công và 6% giảm sát thương,có thể cộng dồn tối đa [5-10] lần. ("Whirlwind" : Kỹ năng chủ động của Lon Swordsman).
 
 **Lữ Mông**
 ![Screenshot_20250509-124146](https://github.com/user-attachments/assets/f3347f2f-c646-4a01-a97d-9a4313b76ba1)
-Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Longsword).
+Giảm nộ tối đa xuống 50%(10->5 nộ).Ngừng giải phóng "Whirlwind" trong 3 lần đầu và thay vào đó nhận 40 Shield(giáp ảo).Sau đó tăng sát thương gây ra thêm [20-50]%.Trong khi đó,cứ mỗi mục tiêu bị tấn công bởi "Whirlwind" Lữ Mông sẽ nhận được 40 Shield(giáp ảo).VD : 2*40 =80 Shield . ("Whirlwind" : Kỹ năng chủ động của Long Swordsman).
 
 **Văn Ương**
 ![Screenshot_20250509-152711](https://github.com/user-attachments/assets/d9651eee-ce97-4b9a-8045-4364d56aa796)
@@ -160,7 +160,7 @@ Mỗi lần tấn công mục tiêu mới,tăng 100% nộ.Tăng sát thương "C
 
 **Quan Ngân Bình**
 ![Screenshot_20250510-183242](https://github.com/user-attachments/assets/63846d72-3a17-4430-aea7-85de2b917fdf)
-Cứ mỗi dòn "Chop" được tung ra,dòn "Chop" tiếp theo sẽ biến thành "Tiger Roar" gây thêm sát thương chuẩn băng[50-100]% của đòn "Chop" này lên tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu và làm choáng chúng trong 1 lượt. ("Chop" : Kỹ năng chủ động của Broadsword Calv).
+Cứ mỗi dòn "Chop" được tung ra,dòn "Chop" tiếp theo sẽ biến thành "Tiger Roar" gây thêm sát thương chuẩn băng[50-100]% của đòn "Chop" này lên tối đa 4 kẻ địch trong phạm vi 2 ô xung quanh mục tiêu và làm choáng chúng trong 1 lượt. ("Chop" : Kỹ năng chủ động của Broadsword Cavalry).
 
 **Hứa Chử**
 ![Screenshot_20250510-183245](https://github.com/user-attachments/assets/092bf8bc-ef88-4550-ba3d-6a7194e4286f)
