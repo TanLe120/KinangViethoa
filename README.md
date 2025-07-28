@@ -128,7 +128,7 @@ Tăng sát thương gây ra cho mục tiêu xa nhất trong phạm vi tấn côn
 
 **Tôn Thượng Hương**
 ![Screenshot_20250509-230158](https://github.com/user-attachments/assets/a399d0c4-23eb-4bbe-831b-e807d53d1dc9)
-Cứ mỗi 5 vòng,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 lượt và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1(choáng 2 kẻ địch, hồi phục 2 đồng minh).
+Cứ mỗi 5 lượt,làm choáng 1 kẻ địch có tấn công cao nhất trong 3 lượt và hồi phục [10-30]% Hp tối đa cho 1 đồng minh có tỉ lệ Hp thấp nhất.Khi bản thân đạt cấp tối đa(cấp 6),mục tiêu bị ảnh hưởng tương ứng +1(choáng 2 kẻ địch, hồi phục 2 đồng minh).
 
 **Lục Tốn**
 ![Screenshot_20250510-081537](https://github.com/user-attachments/assets/252eb0aa-6200-46ed-a28d-e110b3994393)
@@ -138,7 +138,7 @@ Sau khi bắn 1 mũi tên lửa,có [20-50]% cơ hội ngọn lửa trên mặt 
 ![Screenshot_20250510-081553](https://github.com/user-attachments/assets/cdf32ab8-1c14-4a13-91a5-958b71d8df01)
 Nếu mục tiêu của "Leep Slash" còn sống,gây thêm sát thương chuẩn bằng ([20-50]%*Atk) lên tối đa 8 kẻ địch trong phạm vi 2 ô tính từ mục tiêu và giảm 50% sát thương phải chịu cho Trương Liêu trong 1 lượt.
 
-Hoắc Khứ Bệnh
+**Hoắc Khứ Bệnh**
 ![Screenshot_20250510-081556](https://github.com/user-attachments/assets/cb7041ea-6e91-4c88-80cf-854f6ac2f3d3)
 Khi bắt đầu trận chiến(tham gia),mỗi lần Kỵ Kiếm trong đội quân hiện tại của Hoắc tung "Leep Slash" sẽ tăng 1 nộ khí cho một Kỵ Kiếm khác trong đội quân của Hoắc và tăng [5-10]% sát thương "Leep Slash" của họ vào lần tiếp theo.Hiệu ứng này có thể cộng dồn và sẽ kết thúc sau khi Hoắc Khứ Bệnh bị giết.
 
