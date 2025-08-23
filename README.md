@@ -80,7 +80,7 @@ Khi bắt đầu vòng đầu tiên,trừ 20% Hp tối đa của bản thân,c�
 
 **Liêm Pha**
 ![Screenshot_20250509-171348](https://github.com/user-attachments/assets/7a3c3b3c-6c2d-4f46-8ed2-07c1521103f8)
-Nếu Hp trên 50%,tăng 25% sát thương gây ra cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Nếu Hp dưới 50%, giảm 25% sát thương phải chịu cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Ngoài ra tăng hiệu ứng của bản thân thêm [50-100]%.
+Khi Hp trên 50%, sát thương gây ra tăng 25% cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Khi Hp dưới 50%, giảm 25% sát thương phải chịu cho bản thân và tối đa 12 đồng minh trong phạm vi 3 ô.Ngoài ra tăng hiệu ứng của bản thân thêm [50-100]%.
 
 **Tào Tháo**
 ![Screenshot_20250509-212843](https://github.com/user-attachments/assets/f575434e-a9e3-4236-ac3d-41d08caa2a39)
