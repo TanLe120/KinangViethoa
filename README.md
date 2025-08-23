@@ -88,7 +88,7 @@ Mỗi đòn tấn công sẽ cấp 1 lớp tinh thần cho tối đa 20 đồng 
 
 **Đặng Ngải**
 ![Screenshot_20250509-220902](https://github.com/user-attachments/assets/47ded97b-d301-4299-aef4-226a7caca221)
-Khi bắt đầu lượt đầu tiên,gửi Lệnh đồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 lượt,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi lượt cho đến khi kết thúc trận chiến.
+Khi bắt đầu lượt đầu tiên,gửi lệnh đồn trú đến 30 dồng minh gần nhất: giảm 20% sát thương của họ trong 5 lượt,sau đó tăng 10% sát thương của họ và phục hồi [10-30] máu mỗi lượt cho đến khi kết thúc trận chiến.
 
 **Hoàng Trung**
 ![Screenshot_20250509-220905](https://github.com/user-attachments/assets/02338b25-185c-4eab-9c33-ae1d129a927f)
