@@ -172,7 +172,7 @@ Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ
 
 **Đổng Trác**
 ![Screenshot_20250510-183251](https://github.com/user-attachments/assets/45e6ac2a-46e1-4a74-8d20-34b85ec766e2)
-Khi Va chạm được giải phóng, mục tiêu bị hất tung sẽ phải chịu thêm sát thương chuẩn bằng (4%*HP tối đa) và HP tối đa của mục tiêu bị hất tung giảm 4%, có thể cộng dồn tối đa [10-20] lần và kéo dài cho đến khi Đổng Trác chết.
+Khi Va chạm được giải phóng, mục tiêu bị hất tung sẽ phải chịu thêm sát thương chuẩn bằng (4%*HP tối đa mục tiêu) và HP tối đa của mục tiêu bị hất tung giảm 4%, có thể cộng dồn tối đa [10-20] lần và kéo dài cho đến khi Đổng Trác chết.
 
 **Hạ Hầu Uyên**
 ![Screenshot_20250510-183255](https://github.com/user-attachments/assets/15a2481d-5add-4b8d-a7a7-0c95aea9298d)
