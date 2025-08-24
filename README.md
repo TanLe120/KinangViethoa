@@ -168,7 +168,7 @@ Sau khi va chạm,tấn công +[100-200]%, -20% tấn công mỗi hiệp.Khi má
 
 **Bùi Hành Nghiễm**
 ![Screenshot_20250510-183248](https://github.com/user-attachments/assets/36d817e1-d010-4957-9de1-0e6c3a6e980d)
-Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ đẩy lùi mục tiêu 1 ô.Khi mục tiêu bị đẩy lùi hoặc lên, gây thêm sát thương bằng (35%*Atk) cho mục tiêu với mỗi ô di chuyển.
+Tăng tấn công bản thân lên [20-30]% và đòn tấn công cơ bản sẽ đẩy lùi mục tiêu 1 ô.Khi mục tiêu bị đẩy lùi hoặc thổi bay, gây thêm sát thương bằng (35%*Atk) cho mục tiêu với mỗi ô di chuyển.
 
 **Đổng Trác**
 ![Screenshot_20250510-183251](https://github.com/user-attachments/assets/45e6ac2a-46e1-4a74-8d20-34b85ec766e2)
